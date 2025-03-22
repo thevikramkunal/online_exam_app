@@ -15,7 +15,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/arafat-web/Quiz-app.git
+    git clone [https://github.com/arafat-web/Quiz-app.git](https://github.com/thevikramkunal/online_exam_app)
 
 Switch to the repo folder
 
@@ -62,4 +62,3 @@ Categories
  <hr>
 
  # Thanks
-# online-exam-app
