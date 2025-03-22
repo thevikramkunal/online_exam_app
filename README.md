@@ -1,10 +1,6 @@
 # Quiz-App_Play-Quiz-Online
  Play Quiz Programming online. Built with latest (v9) Laravel Framework
 
-[![Stargazers](https://img.shields.io/github/stars/arafat-web/Quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/stargazers)
-[![Issues](https://img.shields.io/github/issues/arafat-web/Quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app)
-[![MIT License](https://img.shields.io/github/license/arafat-web/quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/issues)
-
 
 
 # Getting started
@@ -15,7 +11,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone [https://github.com/arafat-web/Quiz-app.git](https://github.com/thevikramkunal/online_exam_app)
+    git clone :(https://github.com/thevikramkunal/online_exam_app)
 
 Switch to the repo folder
 
